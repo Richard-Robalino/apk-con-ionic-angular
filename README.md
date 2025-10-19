@@ -42,6 +42,9 @@ ionic capacitor copy android
 
 ---
 
+<img width="926" height="206" alt="image" src="https://github.com/user-attachments/assets/919df300-60c6-4063-95b4-ebe6531e108d" />
+
+
 ## 2) Ícono y Splash Screen (Capacitor)
 
 Desde Capacitor 5/6/7 se recomienda **@capacitor/assets** para generar todos los tamaños de íconos y splash automáticamente.
