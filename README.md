@@ -4,16 +4,6 @@
 
 ---
 
-## 📦 Entregable esperado
-
-* **Repositorio GitHub** con:
-
-  * Código fuente del proyecto Ionic/Angular
-  * **APK funcional** (`debug` o `release`) en `/release/`
-  * Este **README** lindo y ordenado 😊
-  * Carpeta `/docs/img/` con las capturas y artes usados
-
----
 
 ## 🧰 Requisitos previos
 
