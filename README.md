@@ -276,35 +276,6 @@ myapp/
 
 ---
 
-## 7) Subir a GitHub
-
-1. Crea repo y agrega remoto:
-
-```bash
-git init
-git add .
-git commit -m "feat: primera versión con APK"
-git branch -M main
-git remote add origin https://github.com/usuario/miapp.git
-git push -u origin main
-```
-
-2. **Incluye el APK** en `/release/` y súbelo (`git lfs` opcional si pesa mucho).
-3. (Opcional) Crea una **Release** en GitHub y adjunta el APK.
-
----
-
-## 📸 Sección de imágenes (ejemplos)
-
-Coloca tus capturas en `docs/img/` y enlázalas aquí:
-
-```md
-![Build OK](docs/img/build-ok.png)
-![Ubicación APK](docs/img/output-apk.png)
-![AndroidManifest editado](docs/img/manifest-edited.png)
-```
-
----
 
 ## 🔗 Referencias útiles (actualizadas)
 
